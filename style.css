@@ -6,7 +6,7 @@
   width: 100%;
 }
 
-.news .div {
+.news .main-content {
   background-color: #f2f2f2;
   overflow: hidden;
   width: 1440px;
@@ -55,7 +55,7 @@
   left: 101px;
 }
 
-.news .overlap-group {
+.news .hero-box {
   position: relative;
   width: 1108px;
   height: 229px;
@@ -100,7 +100,7 @@
   mix-blend-mode: color-burn;
 }
 
-.news .news-block {
+.news .news-block-6 {
   top: 1069px;
   left: 994px;
   position: absolute;
@@ -152,7 +152,7 @@
   line-height: normal;
 }
 
-.news .overlap-wrapper {
+.news .news-block-5 {
   top: 1069px;
   left: 525px;
   position: absolute;
@@ -195,7 +195,7 @@
   text-decoration: underline;
 }
 
-.news .overlap-group-wrapper {
+.news .news-block-4 {
   top: 1069px;
   left: 60px;
   position: absolute;
@@ -229,7 +229,7 @@
   text-decoration: underline;
 }
 
-.news .div-wrapper {
+.news .news-block-3 {
   top: 621px;
   left: 994px;
   position: absolute;
@@ -294,7 +294,7 @@
   text-decoration: underline;
 }
 
-.news .news-block-3 {
+.news .news-block-1 {
   top: 621px;
   left: 60px;
   position: absolute;

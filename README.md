@@ -1,7 +1,7 @@
 # Cannoli-Fund-About-Page
 Cannoli Fund About Page- README
 
-This is the README file for the Cannoli Fund website. Here you'll find information about the website's structure, functionality, and included files.
+This is the README file for the Cannoli Fund website about page. Here you'll find information about the website's structure, functionality, and included files.
 
 Website Purpose:
 
